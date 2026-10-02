@@ -1,4 +1,8 @@
+tecnología
+cambiado por tobias
+otra cosa mas (problema 10)
 aca hay una pantalla
+
 
 
 pantalla mejorada
@@ -7,7 +11,14 @@ cambiado por thomas
 
 actualizado por thomas
 
-revisado de flatas de ortografía
 
+ 7bb4c06842f3f6f1c586c780554c3e13e5e841b3
+revisado de flatas de ortografía
 cambiado por gio
 
+ HEAD
+cambiado por gio
+
+
+ult mod tobias
+ 7bb4c06842f3f6f1c586c780554c3e13e5e841b3
