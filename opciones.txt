@@ -1,1 +1,3 @@
 aca hay opciones
+
+reporte de inconsistecia
