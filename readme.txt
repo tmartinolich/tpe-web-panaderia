@@ -1,0 +1,1 @@
+Se debe ingresar el nombre de usuario y una contraseña, si falla puede volver a intentarlo 3 veces seguidas
