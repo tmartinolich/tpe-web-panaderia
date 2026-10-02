@@ -1,1 +1,6 @@
 aca hay opciones
+<<<<<<< HEAD
+=======
+
+reporte de inconsistecia
+>>>>>>> 7bb4c06842f3f6f1c586c780554c3e13e5e841b3
